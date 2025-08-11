@@ -1,3 +1,5 @@
+## 📓 Colab Notebook
+[Open in Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID)
 
 ---
 
@@ -40,3 +42,4 @@ Full details are available in `ds_report.pdf`.
 
 ## 📧 Contact
 Prepared by **Ankit Kumar** for the Junior Data Scientist – Trader Behavior Insights assignment.
+
